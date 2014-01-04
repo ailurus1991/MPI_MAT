@@ -5,7 +5,7 @@
 Go in the src/ directory and compile:
 
     make
-
+hah 
 ### Step 1
 
 Set mpd.host at the first host machine:
